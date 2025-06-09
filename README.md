@@ -2,7 +2,7 @@
 *A sleek, dual-function timekeeping web application with Dark Mode support*  
 
 ![App Demo](assets/images/demo.gif)  
-*(Replace with your actual demo GIF/screenshot)*  
+*[(Replace with your actual demo GIF/screenshot)](https://aryandakhare.github.io/stopwatch-clock-app-/)*  
 
 ---
 
@@ -25,5 +25,5 @@
 ## 🚀 Quick Start  
 1. **Clone the repo**  
    ```bash
-  [ git clone https://github.com/yourusername/stopwatch-clock-app.git
+  https://aryandakhare.github.io/stopwatch-clock-app-/
    cd stopwatch-clock-app](https://github.com/aryandakhare/stopwatch-clock-app-.git)
