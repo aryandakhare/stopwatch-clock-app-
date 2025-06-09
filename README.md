@@ -25,5 +25,5 @@
 ## 🚀 Quick Start  
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/stopwatch-clock-app.git
-   cd stopwatch-clock-app
+  [ git clone https://github.com/yourusername/stopwatch-clock-app.git
+   cd stopwatch-clock-app](https://github.com/aryandakhare/stopwatch-clock-app-.git)
