@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StaxTech Stopwatch & Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="clock">
+            <h1 id="time">00:00:00</h1>
+            <div class="format-toggle">
+                <button id="toggleFormat">Switch to 24H</button>
+            </div>
+        </div>
+        
+        <div class="stopwatch">
+            <h1 id="stopwatch">00:00:00</h1>
+            <div class="controls">
+                <button id="startStop">Start</button>
+                <button id="reset">Reset</button>
+                <button id="lap">Lap</button>
+            </div>
+            <div id="laps"></div>
+        </div>
+        
+        <div class="theme-toggle">
+            <button id="themeToggle">🌙 Dark Mode</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
